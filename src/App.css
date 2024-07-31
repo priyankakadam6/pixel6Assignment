@@ -1,0 +1,23 @@
+/* Basic styling for the app */
+nav {
+  background-color: #f8f9fa;
+  padding: 1rem;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+li {
+  display: inline;
+  margin-right: 1rem;
+}
+/* Custom CSS for mobile visibility */
+.navbar-nav .nav-link {
+  padding: 0.5rem 1rem;
+}
+
+.navbar-brand {
+  font-size: 1.25rem;
+}
